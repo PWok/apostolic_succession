@@ -1,0 +1,10 @@
+[
+{"id": "bzimon", "name": "Archbishop Damian Zimoń", "death": "", "consecrator": "", "level": 0},
+{"id": "bbernacki", "name": "Bishop Gerard Bernacki †", "death": "21 Dec 2018", "consecrator": "bzimon", "level": 1},
+{"id": "bcichy", "name": "Bishop Stefan Cichy", "death": "", "consecrator": "bzimon", "level": 1},
+{"id": "bkupny", "name": "Archbishop Józef Piotr Kupny", "death": "", "consecrator": "bzimon", "level": 1},
+{"id": "bmendyk", "name": "Bishop Marek Mendyk", "death": "", "consecrator": "bcichy", "level": 2},
+{"id": "bmalyga", "name": "Bishop Maciej Małyga", "death": "", "consecrator": "bkupny", "level": 2},
+{"id": "bkicin", "name": "Bishop Jacek Kiciński, C.M.F.", "death": "", "consecrator": "bkupny", "level": 2},
+{"id": "bwawrzy", "name": "Bishop Piotr Wawrzynek", "death": "", "consecrator": "bkupny", "level": 2}
+]
